@@ -7,9 +7,8 @@ Status  - In progress ...
 
 -------------------------------------
 
-Intent Classification
 Prolem statement :
-
+--------------------------
 Given a setence, predict the type of intent.
 The data contains various user queries categorized into seven intents.
 
